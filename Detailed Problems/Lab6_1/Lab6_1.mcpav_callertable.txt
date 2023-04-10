@@ -1,0 +1,9 @@
+main
+	init_adc
+	init_timer
+	init_PWM
+	__CC2DW
+ISR_Timer0
+	display
+	readADC
+	Div_16x16_S

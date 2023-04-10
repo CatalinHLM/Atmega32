@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Test_i\Test_i.mcpav
+Project1=Coloviu.mcpav
+[ActiveProject]
+Index=1
